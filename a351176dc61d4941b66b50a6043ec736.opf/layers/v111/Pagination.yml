@@ -1,99 +1,98 @@
-id: bfd954764ed74b0ba6cfa3677a49f1e0
+id: bb6049f4590a4dffb6bb182445632bff
 annotation_type: Pagination
 revision: '00001'
 annotations:
-  47ddd13888634852a858f71003d4d4bb:
+  43536b3318994726a4d5b908914273ba:
     imgnum: 47
     reference: ''
     span:
       start: 0
       end: 757
-    note_ref: 93de4a523ab34bf6847d39c1dec8321e
-  94f955b8d1634520a63225984435a739:
+    note_ref: d128996ff5de4a678d55ecba862f1997
+  02489482c43c4db2a289943eed9ded1d:
     imgnum: 48
     reference: ''
     span:
       start: 760
       end: 2180
-    note_ref: 93de4a523ab34bf6847d39c1dec8321e
-  903ddc4f56464632a9fd704a0ea81f04:
+    note_ref: d128996ff5de4a678d55ecba862f1997
+  56051d7b000546589edcb12a49e86494:
     imgnum: 49
     reference: ''
     span:
       start: 2183
       end: 3556
-    note_ref: 93de4a523ab34bf6847d39c1dec8321e
-  9647623b09c848f9b9568ec0849f94be:
+    note_ref: d128996ff5de4a678d55ecba862f1997
+  fe99be14db67454bb0ab017d12e34235:
     imgnum: 50
     reference: ''
     span:
       start: 3559
       end: 4898
-    note_ref: 8ba30cb30b6440f29164a6bc1f820b59
-  5dc9698445c044eebdfc8aee409c1c4f:
+    note_ref: d885ea3786a7436ea65c30160648f8b0
+  fde38c6b18234966b647ad4f1e1df6df:
     imgnum: 51
     reference: ''
     span:
       start: 4901
       end: 6278
-    note_ref: 8ba30cb30b6440f29164a6bc1f820b59
-  3697ab4811ab41638564a01c2f85c40c:
+    note_ref: d885ea3786a7436ea65c30160648f8b0
+  9bf5788757a74bab8d6a895142cfdb4d:
     imgnum: 52
     reference: ''
     span:
       start: 6281
       end: 7691
-    note_ref: 8ba30cb30b6440f29164a6bc1f820b59
-  1452097ca93241b286b2274b64e76dcf:
+    note_ref: d885ea3786a7436ea65c30160648f8b0
+  98f8ec46eb244bb28d950104554f5cf5:
     imgnum: 53
     reference: ''
     span:
       start: 7694
       end: 9077
-    note_ref: 8ba30cb30b6440f29164a6bc1f820b59
-  c9b75d0f7f0d4e10b52f987de3658c35:
+    note_ref: d885ea3786a7436ea65c30160648f8b0
+  fde0b6879e1a43c5be1e1ca71f0c9488:
     imgnum: 54
     reference: ''
     span:
       start: 9080
       end: 10465
-    note_ref: 8ba30cb30b6440f29164a6bc1f820b59
-  93de4a523ab34bf6847d39c1dec8321e:
+    note_ref: d885ea3786a7436ea65c30160648f8b0
+  d128996ff5de4a678d55ecba862f1997:
     imgnum: 55
     reference: ''
     span:
       start: 10468
-      end: 11972
-    note_ref: 8ba30cb30b6440f29164a6bc1f820b59
-  8ba30cb30b6440f29164a6bc1f820b59:
+      end: 11967
+    note_ref: d885ea3786a7436ea65c30160648f8b0
+  d885ea3786a7436ea65c30160648f8b0:
     imgnum: 56
     reference: ''
     span:
-      start: 11975
-      end: 13846
-  d99bbc60bc254940ba8d2b0fe0ee13f7:
+      start: 11970
+      end: 13848
+  2522cb992c8149eb857dea93cc14fe9b:
     imgnum: 57
     reference: ''
     span:
-      start: 13849
-      end: 13899
-  98b11a26aded44c1aa036c27b83e5b14:
+      start: 13851
+      end: 13891
+  7d1356ce1c074d8eb51843c2e5db3b23:
     imgnum: 58
     reference: ''
     span:
-      start: 13902
-      end: 13902
-    note_ref: ''
+      start: 13894
+      end: 13894
 local_ids:
-  47ddd13888634852a858f71003d4d4bb: 200000
-  94f955b8d1634520a63225984435a739: 200001
-  903ddc4f56464632a9fd704a0ea81f04: 200002
-  9647623b09c848f9b9568ec0849f94be: 200003
-  5dc9698445c044eebdfc8aee409c1c4f: 200004
-  3697ab4811ab41638564a01c2f85c40c: 200005
-  1452097ca93241b286b2274b64e76dcf: 200006
-  c9b75d0f7f0d4e10b52f987de3658c35: 200007
-  93de4a523ab34bf6847d39c1dec8321e: 200008
-  8ba30cb30b6440f29164a6bc1f820b59: 200009
-  d99bbc60bc254940ba8d2b0fe0ee13f7: 200010
-  98b11a26aded44c1aa036c27b83e5b14: 200011
+  43536b3318994726a4d5b908914273ba: 200000
+  02489482c43c4db2a289943eed9ded1d: 200001
+  56051d7b000546589edcb12a49e86494: 200002
+  fe99be14db67454bb0ab017d12e34235: 200003
+  fde38c6b18234966b647ad4f1e1df6df: 200004
+  9bf5788757a74bab8d6a895142cfdb4d: 200005
+  98f8ec46eb244bb28d950104554f5cf5: 200006
+  fde0b6879e1a43c5be1e1ca71f0c9488: 200007
+  d128996ff5de4a678d55ecba862f1997: 200008
+  d885ea3786a7436ea65c30160648f8b0: 200009
+  2522cb992c8149eb857dea93cc14fe9b: 200010
+  7d1356ce1c074d8eb51843c2e5db3b23: 200011
